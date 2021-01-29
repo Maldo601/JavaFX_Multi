@@ -1,2 +1,3 @@
-/.vscode
-/README.md
+.vscode/settings.json
+README.md
+.gitignore
