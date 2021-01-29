@@ -17,6 +17,8 @@ import javafx.stage.Stage;
     https://www.youtube.com/watch?v=I4J5_IWDeEo 
     https://openjfx.io/openjfx-docs/#install-javafx 
 
+    Thanks, NetBeans sucks bullshit. VSCode rulez. 
+
 */
 public class App extends Application {
 
